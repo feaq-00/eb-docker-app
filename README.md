@@ -47,12 +47,7 @@ my-eb-docker-app/
 ---
 
 ## 📖 Extended Notes
-See [`/docs/Deploy an App with Docker.docx`](./docs/Deploy%20an%20App%20with%20Docker.docx) for a full walkthrough with detailed explanations.  
-
----
-
-## 🌐 Live Demo
-*(Environment terminated to avoid costs — screenshots included as proof of deployment)*  
+See [`/docs/Deploy an App with Docker.docx`](https://github.com/feaq-00/eb-docker-app/blob/0465c6b7fdd460e7b656093eb2b902dd3bc68623/eb-docker-app/Deploy%20an%20App%20with%20Docker.docx) for a full walkthrough with detailed explanations.  
 
 ---
 
