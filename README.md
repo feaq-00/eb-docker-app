@@ -4,15 +4,6 @@ This project demonstrates how to containerize a static web application with **Do
 
 ---
 
-## 📂 Project Structure
-my-eb-docker-app/
-├── Dockerfile # Defines the container build instructions
-├── index.html # Static webpage served by Nginx
-├── docs/
-  └── Deploy an App with Docker.docx # Detailed project notes + screenshots
-
----
-
 ## 🛠️ Tools & Technologies
 - **Docker** → for building container images  
 - **Nginx** → lightweight web server for static content  
