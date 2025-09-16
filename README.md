@@ -31,13 +31,6 @@ my-eb-docker-app/
 
 ---
 
-## 📸 Screenshots
-- ✅ Docker container running locally  
-- ✅ Elastic Beanstalk environment (Green status)  
-- ✅ Live deployed web page  
-
----
-
 ## 🔍 Key Learnings
 - Difference between **container images** (blueprint) and **containers** (running instances).  
 - How Elastic Beanstalk manages resources like EC2 and S3 automatically.  
